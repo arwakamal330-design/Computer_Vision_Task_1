@@ -49,6 +49,7 @@ for image in images :
 
         cv2.imwrite (name + "_output.jpg",img_back)
 
+        print ("\n")
 
         ##====================================== Splicing Channels =====================================
 
